@@ -9,9 +9,9 @@ Beyond core AI and machine learning, I bring a strong software engineering found
 + Retrieval-Augmented Generation (RAG) & Semantic Search.
 + Natural Language Processing (NLP) & Deep Learning.
 + Full-Stack Software Engineering & API Architecture.
-+ Machine Learning & Modeling: Developed, trained, validated, and deployed predictive models including XGBoost and Gaussian Mixture Models (GMM) for complex data tasks.
-+ Domain Adaptation & Fine-Tuning: Leveraged transfer learning techniques to adapt pre-trained models to specialized domains, such as extracting and analyzing insights from Electronic Health Records (EHR).
-+ Information Extraction: Built specialized pipelines focused on Named Entity Recognition (NER) and Relation Extraction to parse and categorize unstructured clinical and technical text.
++ Machine learning and modeling: Development of predictive models, including XGBoost and Gaussian mixture models (GMM), for tasks involving complex data.
++ Domain adaptation and fine-tuning: Use of transfer learning techniques to adapt pre-trained models to specialized domains, such as extracting and analyzing relevant information from electronic health records.
++ Information extraction: Specialized workflows focused on named entity recognition (NER) and relationship extraction to analyze and categorize unstructured clinical and technical text.
 
 ## Interest research areas
 
