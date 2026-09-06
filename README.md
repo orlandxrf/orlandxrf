@@ -15,7 +15,7 @@ Beyond core AI and machine learning, I bring a strong software engineering found
 
 ## Interest research areas
 
-* IA Generative
+* Generative AI
 * RAG Systems
 * Named Entity Recognition
 * Relation Extraction
